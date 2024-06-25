@@ -1,3 +1,4 @@
 git clone https://github.com/THU-MIG/yolov10.git
 
-https://mega.nz/file/ggFjkTbA#JDvOjzY7sbFfeNIDM1tkE2aPDLbclsxDRfvpwsl1PYc
+
+https://mega.nz/folder/o1VVHYTI#z0x7c2EskXfqGsCRl6Sm3A
