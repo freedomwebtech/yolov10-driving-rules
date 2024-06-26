@@ -1,6 +1,0 @@
-train: ../rules/images/training
-val: ../rules/labels/validation
-#number of classes
-nc: 1
-#class names
-names: ['surfing']
